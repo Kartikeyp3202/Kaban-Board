@@ -47,7 +47,8 @@ This project allows users to manage tasks efficiently using drag-and-drop functi
 
 ## 📸 Screenshots
 
-![Kanban Board Screenshot]("C:\Users\kartikey\OneDrive\Desktop\KANBAN\asset\Final Updation.png")
+<img width="1917" height="909" alt="Final Updation" src="https://github.com/user-attachments/assets/06f1a565-7982-4797-9442-e97087815cdc" />
+
 
 
 ---

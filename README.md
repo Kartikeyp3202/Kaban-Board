@@ -66,8 +66,7 @@ This project allows users to manage tasks efficiently using drag-and-drop functi
 
 **Kartikey Pandey**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (Add your LinkedIn link)
+- GitHub: https://github.com/Kartikeyp3202
 
 ---
 
